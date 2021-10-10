@@ -1,2 +1,2 @@
 # Git-Orphaning
-The task is from cource
+The task is from course of VCS
